@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/mappan_up" android:id="@+id/mapup"></item>
+<item android:title="@string/mappan_down" android:id="@+id/mapdown"></item>
+<item android:title="@string/mappan_left" android:id="@+id/mapleft"></item>
+<item android:title="@string/mappan_right" android:id="@+id/mapright"></item>
+</menu>

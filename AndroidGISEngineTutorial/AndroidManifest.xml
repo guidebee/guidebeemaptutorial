@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.pstreets.gisengine"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <application android:name="AndroidGISEngineApplication"
+           android:label="@string/app_name" android:icon="@drawable/logo">
+        <activity android:name=".AndroidGISEngineTutorial"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name=".demo.HelloWorld" android:label="@string/activity_helloworld">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        
+         <activity android:name=".demo.VectorMap" android:label="@string/activity_vectormap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+
+	    <activity android:name=".demo.MapType" android:label="@string/activity_maptype">
+	     	<intent-filter>
+	                <action android:name="android.intent.action.MAIN" />
+	                <category android:name="android.intent.category.SAMPLE_CODE" />
+	        </intent-filter>
+	    </activity>
+	    
+	    <activity android:name=".demo.MapZoom" android:label="@string/activity_mapzoom">
+	     	<intent-filter>
+	                <action android:name="android.intent.action.MAIN" />
+	                <category android:name="android.intent.category.SAMPLE_CODE" />
+	        </intent-filter>
+	    </activity>
+	    
+	    <activity android:name=".demo.MapPan" android:label="@string/activity_mappan">
+	     	<intent-filter>
+	                <action android:name="android.intent.action.MAIN" />
+	                <category android:name="android.intent.category.SAMPLE_CODE" />
+	        </intent-filter>
+	    </activity>
+	    
+	    <activity android:name=".demo.CustomMap" android:label="@string/activity_custommap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapGeocoding" android:label="@string/activity_geocoding">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapRouting" android:label="@string/activity_maprouting">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapLocalSearch" android:label="@string/activity_localsearch">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapIpSearch" android:label="@string/activity_ipsearch">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapReverseGeocoding" android:label="@string/activity_reversegeocoding">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapServiceType" android:label="@string/activity_mapservicetype">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.MapOverlay" android:label="@string/activity_mapoverlay">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".demo.StoredMap" android:label="@string/activity_offlinemap">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+</application>
+    <uses-sdk android:minSdkVersion="4" />
+    
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_OWNER_DATA" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest> 

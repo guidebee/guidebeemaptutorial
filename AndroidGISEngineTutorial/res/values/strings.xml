@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Guidebee GISEngine Tutorial</string>
+
+<string name="activity_helloworld">Hello World</string>
+<string name="activity_maptype">Map Type</string>
+<string name="maptype_googlemap">Google Map</string>
+<string name="maptype_bingmap">Bing Map</string>
+<string name="maptype_mapabc">MapAbc Map</string>
+<string name="mapzoom_zoomin">Zoom In</string>
+<string name="mapzoom_zoomout">Zoom Out</string>
+<string name="activity_mapzoom">Map Zoom</string>
+<string name="activity_mappan">Map Pan</string>
+<string name="mappan_up">Up</string>
+<string name="mappan_down">Down</string>
+<string name="mappan_left">Left</string>
+<string name="mappan_right">Right</string>
+<string name="activity_custommap">Custom Map</string>
+<string name="activity_geocoding">Find Address</string>
+<string name="mapgeocoding_findaddress">Find address</string>
+<string name="activity_maprouting">Get Direction</string>
+<string name="maprouting_getdirection">Get Direction</string>
+<string name="activity_localsearch">Local Search</string>
+<string name="activity_ipsearch">IP Search</string>
+<string name="activity_reversegeocoding">Reverse Geocoding</string>
+<string name="activity_mapservicetype">Map Service Type</string>
+<string name="activity_mapoverlay">Map Overlay</string>
+<string name="activity_offlinemap">Offline Map</string>
+<string name="activity_vectormap">Vector Map</string>
+</resources>
