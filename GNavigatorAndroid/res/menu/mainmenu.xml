@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/mnu_search" android:title="@string/search" android:icon="@drawable/ic_menu_search"></item><item android:id="@+id/mnu_direction" android:title="@string/directions" android:icon="@drawable/ic_menu_directions"></item>
+<item android:id="@+id/mnu_mapmode" android:title="@string/mapmode" android:icon="@drawable/ic_menu_mapmode"></item>
+<item android:id="@+id/mnu_mylocation" android:title="@string/mylocation" android:icon="@drawable/ic_menu_mylocation"></item>
+<item android:id="@+id/mnu_device" android:title="@string/device" android:icon="@drawable/ic_menu_compass"></item>
+<item android:id="@+id/mnu_about" android:title="@string/about" android:icon="@drawable/ic_menu_info_details"></item>
+
+<item android:id="@+id/mnu_settings" android:title="@string/settings" android:icon="@drawable/ic_menu_preferences"></item>
+</menu>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                
+                android:text="@string/deviceno" />
+
+            <TextView
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+            <EditText
+                android:id="@+id/txtDeviceNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:imeOptions="actionNext"
+                 android:singleLine="true"
+                android:inputType="phone" />
+        </TableRow>
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/devicename" />
+            <TextView
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+            <EditText
+                android:id="@+id/txtDeviceName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:imeOptions="actionDone"
+                 android:singleLine="true"
+                android:layout_weight="1" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0px"
+        android:layout_weight="1.0" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dip" >
+
+        <ImageButton
+            android:id="@+id/btnOK"
+            android:layout_width="64dip"
+            android:layout_height="64dip"
+            android:background="@drawable/guidebee_button"
+            android:src="@drawable/ok" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/btnCancel"
+            android:layout_width="64dip"
+            android:layout_height="64dip"
+            android:background="@drawable/guidebee_button"
+            android:src="@drawable/cancel" />
+    </LinearLayout>
+
+</LinearLayout>

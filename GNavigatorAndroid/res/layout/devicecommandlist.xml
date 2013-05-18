@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:text="@string/command"
+    />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    <Spinner android:id="@+id/spinner1"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:layout_weight="1.0"
+       
+    />
+       <Button
+       android:id="@+id/btnSend"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="Send" />
+   
+</LinearLayout>
+   <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+        android:text="@string/parameter"
+    />
+
+   
+   <EditText
+       android:id="@+id/txtParameters"
+       android:layout_width="match_parent"
+       android:layout_weight="1.0"
+       android:layout_height="wrap_content" >
+
+       <requestFocus />
+       
+   </EditText>
+
+
+        </LinearLayout>
+   <ListView android:id="@id/android:list"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:drawSelectorOnTop="false" />
+	
+	
+	
+		<TextView
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:text="" 
+		android:textSize="12pt"
+		android:layout_weight="1"
+		android:gravity="center" android:id="@id/android:empty"/> 
+
+</LinearLayout>

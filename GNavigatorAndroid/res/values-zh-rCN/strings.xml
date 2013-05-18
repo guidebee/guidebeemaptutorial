@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">引路蜂跟踪仪</string>
+    <string name="search">搜索</string>
+    <string name="directions">路线</string>
+    <string name="mapmode">地图模式</string>
+    <string name="mylocation">当前位置</string>
+    <string name="clearmap">清除地图</string>
+    <string name="about">关于</string>
+    <string name="settings">设置</string>
+    <string name="addressSearch">查询地址</string>
+    <string name="localSearch">本地查询</string>
+    <string name="latitudeSearch">经纬度查询</string>
+    <string name="ipSearch">IP地址查询</string>
+    <string name="findaddresshint">输入查询内容</string>
+    <string name="cancel">取消</string>
+    <string name="inputstreetname">请输入街道名称：如南京西路</string>
+    <string name="searchGoto">转到</string>
+    <string name="favorite">收藏夹</string>
+    <string name="searchinprogress">查询中，请稍候...</string>
+    <string name="searchnoresult">查询无结果</string>
+    <string-array name="map_type_array">
+        <item>Google地图</item>
+        <item>Google卫星地图</item>
+        <item>Google中国地图</item>
+        <item>Bing地图</item>
+        <item>Bing卫星地图</item>
+        <item>Bing中国地图</item>
+        <item>MapAbc中国地图</item>
+        <item>OpenStreet地图</item>
+        <item>Yahoo地图</item>
+    </string-array>
+    
+    <string name="startpoint">我的位置</string>
+    <string name="endpoint">终点</string>
+    <string name="drive">驾车</string>
+    <string name="walk">步行</string>
+    <string name="getdirection">获取路径</string>
+    <string name="go_to">转到</string>
+    <string name="map">地图</string>
+    <string name="km">公里</string>
+    <string name="device">设备</string>
+    <string name="viewroute">查看路径</string>
+    <string name="directionfromhere">路径起点</string>
+    <string name="zoomin">放大</string>
+    <string name="devicecommand">命令</string>
+    <string name="deviceinfo">设备信息</string>
+    <string name="add">添加</string>
+    <string name="centermaphere">以此为中心</string>
+    <string name="devicelocationlist">位置</string>
+    <string name="whatshere">这是什么地方</string>
+    <string name="nodevice">无跟踪器</string>
+    <string name="delete">删除</string>
+    <string name="deviceno">设备号码</string>
+    <string name="ok">确定</string>
+    <string name="clear">清除</string>
+    <string name="directiontohere">路径终点</string>
+    <string name="zoomout">缩小</string>
+    <string name="turnright">右转</string>
+    <string name="devicename">设备名称</string>
+    <string name="turnleft">坐转</string>
+    <string name="location">位置</string>
+    <string name="status">状态</string>
+    <string name="number">号码</string>
+    <string name="name">名称</string>
+    <string name="imei">IMEI</string>
+    <string name="powerlevel">电池</string>
+    <string name="phonenumber">本机号码</string>
+    <string name="inputphonenumber">请输入本机号码</string>
+    <string name="selectmapmode">请选择地图模式</string>
+    <string name="mapzoom">缩放级别</string>
+    <string name="selectmaplevel">请选择地图缩放级别</string>
+    <string name="mapcenter">地图中心坐标</string>
+    <string name="inputmapcenter">请输入地图中心坐标</string>
+    <string name="chinamapoffset">校正中国地图偏移</string>
+    <string name="parameter">参数</string>
+    <string name="command">命令</string>
+    <string name="masterdeviceno">主设备号码</string>
+    <string name="inputmasterdeivceno">请输入主设备号码</string>
+    <string name="reportlocation">报告位置</string>
+</resources>

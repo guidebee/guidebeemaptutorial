@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/mnudirectionfromhere" android:title="@string/directionfromhere">
+    </item>
+    <item android:id="@+id/mnudirectiontohere" android:title="@string/directiontohere"></item>
+    <item android:id="@+id/menuwhatshere" android:title="@string/whatshere"></item>
+    <item android:id="@+id/mnuclearmap" android:title="@string/clearmap"></item>
+    <item android:id="@+id/mnureportlocation" android:title="@string/reportlocation"></item>
+
+    
+
+</menu>

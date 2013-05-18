@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="0pt"
+        android:layout_weight="10"
+        android:drawSelectorOnTop="false" />
+
+    <TextView
+        android:id="@id/android:empty"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:gravity="center"
+        android:text="@string/nodevice"
+        android:textSize="12pt" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dip" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="0pt"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/btnAdd"
+                style="@style/ImageButton"
+                android:src="@drawable/add" />
+
+            <TextView
+                style="@style/ImageButtonTextView"
+                android:text="@string/add" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="0pt"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/btnDelete"
+                style="@style/ImageButton"
+                android:src="@drawable/delete" />
+
+            <TextView
+                style="@style/ImageButtonTextView"
+                android:text="@string/delete" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="0pt"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/btnLocation"
+                style="@style/ImageButton"
+                android:src="@drawable/location" />
+
+            <TextView
+                style="@style/ImageButtonTextView"
+                android:text="@string/location" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="0pt"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:visibility="invisible"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/btnCommand"
+                style="@style/ImageButton"
+                android:src="@drawable/command" />
+
+            <TextView
+                style="@style/ImageButtonTextView"
+                android:text="@string/command" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

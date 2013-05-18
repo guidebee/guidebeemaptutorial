@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <style name="ImageButton" parent="@android:style/Widget.ImageButton">
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:layout_gravity">center_vertical|center_horizontal</item>
+    </style>
+    <style name="ImageButtonTextView" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+       <item name="android:layout_gravity">center_vertical|center_horizontal</item>
+    </style>
+</resources>

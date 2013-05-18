@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_option">
+        <item>地址查询</item>
+        <item>本地查询</item>
+        <item>IP地址查询</item>
+        <item>经纬度查询</item>
+    </string-array>
+    <string-array name="command">
+        <item >设备绑定</item>
+        <item >打开GPS</item>
+        <item >关闭GPS</item>
+        <item >取得电压</item>
+        <item >取得IMEI</item>
+        <item >设置电子栅栏1</item>
+        <item >设置电子栅栏2</item>
+        <item >打开电子栅栏</item>
+        <item >关闭电子栅栏</item>
+        <item >设置服务器地址</item>
+        <item >打开GPRS</item>
+        <item >GPS报告间隔</item>
+        <item >GPS单次位置</item>
+    </string-array>
+    <string-array name="map_mode_array_value">
+        <item >0</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+    </string-array>
+    <string-array name="map_zoom_array_value">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+        <item >11</item>
+        <item >12</item>
+        <item >13</item>
+        <item >14</item>
+        <item >15</item>
+        <item >16</item>
+        <item >17</item>
+        <item >18</item>
+        <item >19</item>
+        <item >20</item>
+        <item >21</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="@string/phonenumber"
+        android:key="deivceno_preference"
+        android:summary="@string/inputphonenumber"
+        android:title="@string/phonenumber" />
+
+    <EditTextPreference
+        android:dialogTitle="@string/mapcenter"
+        android:key="mapcenter_preference"
+        android:summary="@string/inputmapcenter"
+        android:title="@string/mapcenter" />
+    
+    <EditTextPreference
+        android:dialogTitle="@string/masterdeviceno"
+        android:key="mastdeviceno_preference"
+        android:summary="@string/inputmasterdeivceno"
+        android:title="@string/masterdeviceno" />
+
+    <CheckBoxPreference
+		android:key="chinamapoffset_preference"
+		android:title="@string/chinamapoffset"
+    />
+    
+    <ListPreference
+        android:dialogTitle="@string/mapmode"
+        android:entries="@array/map_type_array"
+        android:entryValues="@array/map_mode_array_value"
+        android:key="mapmode_preference"
+        android:summary="@string/selectmapmode"
+        android:title="@string/mapmode" />
+    
+    <ListPreference
+        android:dialogTitle="@string/mapzoom"
+        android:entries="@array/map_zoom_array_value"
+        android:entryValues="@array/map_zoom_array_value"
+        android:key="mapzoom_preference"
+        android:summary="@string/selectmaplevel"
+        android:title="@string/mapzoom" />
+    
+    
+
+</PreferenceScreen>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="4dip" >
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/number" />
+
+            <TextView
+                android:id="@+id/txtDeviceNo"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/name" />
+
+            <TextView
+                android:id="@+id/txtDeviceName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/imei" />
+
+            <TextView
+                android:id="@+id/txtDeviceIMEI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/location" />
+
+            <TextView
+                android:id="@+id/txtDeviceLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/status" />
+
+            <TextView
+                android:id="@+id/txtDeviceStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_weight="1" />
+        </TableRow>
+        <TableRow android:padding="4dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/powerlevel" />
+
+            <TextView
+                android:id="@+id/txtDevicePower"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dip"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_weight="1" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

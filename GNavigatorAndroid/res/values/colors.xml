@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="app_background">#00000000</color>
+	<color name="light_green">#05ba05</color>
+	<color name="dark_green">#0f200f</color>
+	<color name="dark_blue">#0f0f9f</color>
+		
+	<color name="text_tab_selected">#ffffff</color>
+	<color name="text_tab_unselected">#000000</color>
+</resources>

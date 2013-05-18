@@ -1,0 +1,42 @@
+com.google.inject.Key$NullAnnotationStrategy: com.google.inject.Key$NullAnnotationStrategy[] values()
+com.google.inject.Key$NullAnnotationStrategy: com.google.inject.Key$NullAnnotationStrategy valueOf(java.lang.String)
+com.google.inject.Stage: com.google.inject.Stage[] values()
+com.google.inject.Stage: com.google.inject.Stage valueOf(java.lang.String)
+com.google.inject.internal.AbstractIterator$State: com.google.inject.internal.AbstractIterator$State[] values()
+com.google.inject.internal.AbstractIterator$State: com.google.inject.internal.AbstractIterator$State valueOf(java.lang.String)
+com.google.inject.internal.BytecodeGen$Visibility: com.google.inject.internal.BytecodeGen$Visibility[] values()
+com.google.inject.internal.BytecodeGen$Visibility: com.google.inject.internal.BytecodeGen$Visibility valueOf(java.lang.String)
+com.google.inject.internal.MapMaker$Strength: com.google.inject.internal.MapMaker$Strength[] values()
+com.google.inject.internal.MapMaker$Strength: com.google.inject.internal.MapMaker$Strength valueOf(java.lang.String)
+com.pstreets.navigator.GNavigatorActivity
+com.pstreets.navigator.GuidebeeMapView
+com.pstreets.navigator.GuidebeeMapView: GuidebeeMapView(android.content.Context,android.util.AttributeSet)
+com.pstreets.navigator.app.GNavigatorApplication
+com.pstreets.navigator.device.AddDeviceActivity
+com.pstreets.navigator.device.DeviceCommandListActivity
+com.pstreets.navigator.device.DeviceControlTabActivity
+com.pstreets.navigator.device.DeviceInfoActivity
+com.pstreets.navigator.device.DeviceLocationHistoryListActivity
+com.pstreets.navigator.device.ManageDeviceListActivity
+com.pstreets.navigator.mapmode.MapModeListActivity
+com.pstreets.navigator.routing.RouteDetailActivity
+com.pstreets.navigator.routing.RoutingActivity
+com.pstreets.navigator.search.SearchResultListActivity
+com.pstreets.navigator.search.SearchSuggestionProvider
+com.pstreets.navigator.settings.SettingsActivity
+com.pstreets.navigator.sms.SmsMessageReceiver
+roboguice.activity.RoboAccountAuthenticatorActivity
+roboguice.activity.RoboActivity
+roboguice.activity.RoboActivityGroup
+roboguice.activity.RoboExpandableListActivity
+roboguice.activity.RoboLauncherActivity
+roboguice.activity.RoboListActivity
+roboguice.activity.RoboMapActivity
+roboguice.activity.RoboPreferenceActivity
+roboguice.activity.RoboSplashActivity
+roboguice.activity.RoboTabActivity
+roboguice.application.RoboApplication
+roboguice.application.RoboInjectableApplication
+roboguice.receiver.RoboBroadcastReceiver
+roboguice.service.RoboIntentService
+roboguice.service.RoboService

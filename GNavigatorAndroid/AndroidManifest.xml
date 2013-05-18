@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pstreets.navigator"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="4" />
+
+    <application
+        android:icon="@drawable/navigator"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar"
+    	android:screenOrientation="portrait"
+        android:name=".app.GNavigatorApplication" >
+        <activity android:name=".GNavigatorActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".search.SearchResultListActivity" />
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".search.SearchResultListActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".AboutActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".mapmode.MapModeListActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".routing.RoutingActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".routing.RouteDetailActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.ManageDeviceListActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.AddDeviceActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.DeviceControlTabActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.DeviceCommandListActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.DeviceInfoActivity" >
+        </activity>
+        <activity
+            android:launchMode="singleTop"
+            android:name=".device.DeviceLocationHistoryListActivity" >
+        </activity>
+        
+        <activity
+            android:launchMode="singleTop"
+            android:name=".settings.SettingsActivity" >
+        </activity>
+
+        <receiver
+            android:enabled="true"
+            android:name=".sms.SmsMessageReceiver" >
+            <intent-filter android:priority="1000" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:authorities="com.pstreets.navigator.search.SearchSuggestionProvider"
+            android:name=".search.SearchSuggestionProvider" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_OWNER_DATA" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+</manifest>

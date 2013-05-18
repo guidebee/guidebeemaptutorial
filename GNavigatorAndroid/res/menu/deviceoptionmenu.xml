@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/mnuDeviceInfo" android:title="@string/deviceinfo"></item>
+    <item android:id="@+id/mnuLocation" android:title="@string/devicelocationlist"></item>
+    <item android:id="@+id/mnuDeviceCommand" android:title="@string/devicecommand"></item>
+
+    
+
+</menu>

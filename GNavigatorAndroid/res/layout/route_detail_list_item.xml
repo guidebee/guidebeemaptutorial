@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="6dip" >
+
+	<ImageView android:id="@+id/imageDirection" android:layout_width="0px"
+		android:layout_height="wrap_content" 
+		android:text="1"
+		android:src="@drawable/navigator"
+		android:padding="4dip"
+		android:layout_weight="1.0"
+		android:background="@drawable/directionbackground"
+		android:gravity="left" android:paddingTop="6dip" android:paddingBottom="6dip"
+		 />
+		 
+    <TextView android:id="@+id/txtDesc" android:layout_width="0px"
+		android:layout_height="wrap_content" 
+		android:layout_weight="3.0"
+		android:text="head south"
+		android:gravity="left" android:paddingLeft="6dip" android:paddingTop="6dip" android:paddingBottom="6dip"
+		 />
+
+	<TextView android:id="@+id/txtDistance" android:layout_width="0px"
+		android:layout_height="wrap_content" 
+		android:text="1003.00"
+		android:layout_weight="2.0"
+		android:gravity="right" android:paddingTop="6dip" android:paddingBottom="6dip"
+
+		 />
+</LinearLayout>
