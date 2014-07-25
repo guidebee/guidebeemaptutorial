@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF" ModuleId="Mapdigit.Drawing" />
+  <Module PersistentId="C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0" ModuleId="Graphics2DExample" />
+  <Module PersistentId="91C13559-0EE5-46E1-825E-FDF272BB009C" ModuleId="Mapdigit.Util" />
+</Modules>

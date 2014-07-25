@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="..\bin\Debug\GTKMapDemo.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="GTKMapDemo.MainWindow" design-size="1196 936">
+    <property name="MemberName" />
+    <property name="WidthRequest">1196</property>
+    <property name="HeightRequest">936</property>
+    <property name="Title" translatable="yes">Guidebee Map Demo</property>
+    <property name="WindowPosition">Center</property>
+    <property name="AllowGrow">False</property>
+    <property name="DefaultWidth">1196</property>
+    <property name="DefaultHeight">936</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Fixed" id="fixed1">
+        <property name="MemberName" />
+        <property name="WidthRequest">1196</property>
+        <property name="HeightRequest">936</property>
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Button" id="btnUp">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Up</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnUpClicked" />
+          </widget>
+          <packing>
+            <property name="X">965</property>
+            <property name="Y">12</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Frame" id="frame3">
+            <property name="MemberName" />
+            <property name="WidthRequest">818</property>
+            <property name="HeightRequest">876</property>
+            <property name="LabelYalign">0</property>
+            <child>
+              <widget class="Gtk.Alignment" id="GtkAlignment">
+                <property name="MemberName" />
+                <property name="Xalign">0</property>
+                <property name="Yalign">0</property>
+                <property name="LeftPadding">12</property>
+                <child>
+                  <widget class="Gtk.DrawingArea" id="picMapCanvas">
+                    <property name="MemberName" />
+                    <property name="WidthRequest">768</property>
+                    <property name="HeightRequest">768</property>
+                    <property name="Events">ExposureMask, ButtonMotionMask, ButtonPressMask</property>
+                    <signal name="MotionNotifyEvent" handler="OnPicMapCanvasMotionNotifyEvent" />
+                    <signal name="ButtonPressEvent" handler="OnPicMapCanvasButtonPressEvent" />
+                  </widget>
+                </child>
+              </widget>
+            </child>
+            <child>
+              <widget class="Gtk.Label" id="GtkLabel1">
+                <property name="MemberName" />
+                <property name="UseMarkup">True</property>
+              </widget>
+              <packing>
+                <property name="type">label_item</property>
+              </packing>
+            </child>
+          </widget>
+          <packing>
+            <property name="X">20</property>
+            <property name="Y">30</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnLeft">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Left</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnLeftClicked" />
+          </widget>
+          <packing>
+            <property name="X">852</property>
+            <property name="Y">59</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnRight">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Right</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnRightClicked" />
+          </widget>
+          <packing>
+            <property name="X">1078</property>
+            <property name="Y">59</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnZoomIn">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Zoom In</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnZoomInClicked" />
+          </widget>
+          <packing>
+            <property name="X">853</property>
+            <property name="Y">105</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnDown">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Down</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnDownClicked" />
+          </widget>
+          <packing>
+            <property name="X">965</property>
+            <property name="Y">105</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnZoomOut">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">ZoomOut</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnZoomOutClicked" />
+          </widget>
+          <packing>
+            <property name="X">1077</property>
+            <property name="Y">105</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtAddress">
+            <property name="MemberName" />
+            <property name="WidthRequest">218</property>
+            <property name="HeightRequest">24</property>
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">852</property>
+            <property name="Y">159</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnGo">
+            <property name="MemberName" />
+            <property name="WidthRequest">88</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Go</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnGoClicked" />
+          </widget>
+          <packing>
+            <property name="X">1077</property>
+            <property name="Y">152</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtAddress1">
+            <property name="MemberName" />
+            <property name="WidthRequest">305</property>
+            <property name="HeightRequest">23</property>
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">853</property>
+            <property name="Y">217</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Entry" id="txtAddress2">
+            <property name="MemberName" />
+            <property name="WidthRequest">305</property>
+            <property name="HeightRequest">23</property>
+            <property name="CanFocus">True</property>
+            <property name="IsEditable">True</property>
+            <property name="InvisibleChar">●</property>
+          </widget>
+          <packing>
+            <property name="X">853</property>
+            <property name="Y">263</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnGetDirection">
+            <property name="MemberName" />
+            <property name="WidthRequest">157</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Get Direction</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnGetDirectionClicked" />
+          </widget>
+          <packing>
+            <property name="X">1001</property>
+            <property name="Y">313</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label1">
+            <property name="MemberName" />
+            <property name="WidthRequest">64</property>
+            <property name="HeightRequest">17</property>
+            <property name="LabelProp" translatable="yes">Map Type</property>
+          </widget>
+          <packing>
+            <property name="X">857</property>
+            <property name="Y">580</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.ComboBox" id="cboMapType">
+            <property name="MemberName" />
+            <property name="WidthRequest">234</property>
+            <property name="HeightRequest">25</property>
+            <property name="IsTextCombo">True</property>
+            <property name="Items" translatable="yes">Google Map
+Google Map China
+Microsoft Map 
+Microsoft Map China
+Microsoft Satellite
+Micrsoft Hybrid</property>
+            <property name="Active">1</property>
+            <signal name="Changed" handler="OnCboMapTypeChanged" />
+          </widget>
+          <packing>
+            <property name="X">931</property>
+            <property name="Y">576</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="btnExit">
+            <property name="MemberName" />
+            <property name="WidthRequest">64</property>
+            <property name="HeightRequest">40</property>
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Exit</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="OnBtnExitClicked" />
+          </widget>
+          <packing>
+            <property name="X">1101</property>
+            <property name="Y">801</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

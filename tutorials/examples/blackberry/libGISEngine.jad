@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+RIM-COD-URL-6: libGISEngine-6.cod
+MIDlet-Jar-Size: 557470
+RIM-COD-SHA1-6: 68 30 60 cb 55 0c e3 ab de 7f a6 55 e2 a4 b5 0c 52 24 84 0c
+RIM-COD-URL-5: libGISEngine-5.cod
+RIM-COD-SHA1-5: 04 6c 5c 0e cb b8 c8 36 b6 fb bd 7d d2 48 1d 67 fe d0 7b b4
+RIM-COD-URL-4: libGISEngine-4.cod
+RIM-COD-SHA1-4: 59 e1 cb ac 14 ba 24 a6 70 ef 70 1e 12 c6 67 75 f5 a4 2c cc
+RIM-COD-URL-3: libGISEngine-3.cod
+RIM-COD-Size-6: 49812
+RIM-COD-SHA1-3: 2a c2 66 e5 f5 cf 98 e5 48 f8 f5 d3 8e 6c 11 51 a0 3c 41 c5
+RIM-COD-URL-2: libGISEngine-2.cod
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: libGISEngine.jar
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-Size-5: 80844
+RIM-COD-SHA1-2: e1 e1 c4 3b 2b b5 c7 d6 8b 44 59 12 d0 cf 72 f5 e4 42 3a cc
+RIM-COD-URL-1: libGISEngine-1.cod
+RIM-COD-Size-4: 87276
+RIM-COD-SHA1-1: 32 d3 de 1d ad 73 bb aa f3 73 60 25 6f 4c 86 ab 06 38 63 15
+RIM-COD-Size-3: 76940
+RIM-COD-Size-2: 68552
+RIM-COD-Size-1: 59200
+RIM-COD-Module-Name: libGISEngine
+MIDlet-Name: libGISEngine
+RIM-COD-Size: 78444
+RIM-COD-Creation-Time: 1299929726
+RIM-COD-URL: libGISEngine.cod
+RIM-Library-Flags: 2
+RIM-COD-SHA1: 1e 58 ba d2 fe af 80 f0 8a 6a 6e 57 e3 9d 88 a8 1b ec e8 55
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MapRoutingRIM
+RIM-COD-Module-Dependencies: net_rim_cldc,libGISEngine
+MIDlet-Jar-Size: 14403
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1299929827
+MIDlet-Jar-URL: MapRoutingRIM.jar
+RIM-COD-URL: MapRoutingRIM.cod
+RIM-COD-SHA1: e8 2a 82 34 f6 e1 a7 ab 7b fd 27 84 93 4e 86 a1 a1 12 f8 3e
+RIM-COD-Size: 5476
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: MapRoutingRIM
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

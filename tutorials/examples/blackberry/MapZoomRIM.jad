@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MapZoomRIM
+RIM-COD-Module-Dependencies: net_rim_cldc,libGISEngine
+MIDlet-Jar-Size: 14490
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1299929849
+MIDlet-Jar-URL: MapZoomRIM.jar
+RIM-COD-URL: MapZoomRIM.cod
+RIM-COD-SHA1: 6c 94 4b e3 3e 5f 5f 8a d1 6f 03 8f 75 bb ff 25 2b 2b 10 46
+RIM-COD-Size: 5268
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: MapZoomRIM
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

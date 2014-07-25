@@ -1,0 +1,44 @@
+## RIM Java Development Environment
+# RIM Workspace file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+[BuildConfigurations
+Debug
+Release
+]
+DependenciesInWorkspace=0
+[ImplicitRules
+]
+[Imports
+]
+[ManifestImports
+]
+[Projects
+HelloWorldRIM.jdp
+libGISEngine.jdp
+MapGeocodingRIM.jdp
+MapIpSearchRIM.jdp
+MapLocalSearchRIM.jdp
+MapOverlayRIM.jdp
+MapPanRIM.jdp
+MapReverseGeocodingRIM.jdp
+MapRoutingRIM.jdp
+MapServiceTypeRIM.jdp
+MapTypeRIM.jdp
+MapZoomRIM.jdp
+]
+[ReleaseActiveProjects
+HelloWorldRIM.jdp
+MapGeocodingRIM.jdp
+MapIpSearchRIM.jdp
+MapLocalSearchRIM.jdp
+MapOverlayRIM.jdp
+MapPanRIM.jdp
+MapReverseGeocodingRIM.jdp
+MapRoutingRIM.jdp
+MapServiceTypeRIM.jdp
+MapTypeRIM.jdp
+MapZoomRIM.jdp
+]

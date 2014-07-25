@@ -1,0 +1,17 @@
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\WM6GISEngineTutorial.exe
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\WM6GISEngineTutorial.pdb
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Ajax.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Crypto.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Drawing.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Gis.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Licence.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Network.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Rms.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\Mapdigit.Util.dll
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\ResolveAssemblyReference.cache
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\WM6GISEngineTutorial.Mainform.resources
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\WM6GISEngineTutorial.Properties.Resources.resources
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\WM6GISEngineTutorial.csproj.GenerateResource.Cache
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\WM6GISEngineTutorial.exe
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\obj\Debug\WM6GISEngineTutorial.pdb
+D:\CVSMapDigit\tutorials\examples\windowsmobile\WM6GISEngineTutorial\WM6GISEngineTutorial\bin\Debug\guidebee.lic

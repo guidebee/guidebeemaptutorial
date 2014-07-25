@@ -1,0 +1,17 @@
+MIDlet-1: HelloChina,,com.pstreets.gisengine.demo.midp.HelloChina
+MIDlet-10: MapServiceTypeMIDP, , com.pstreets.gisengine.demo.midp.MapServiceTypeMIDP
+MIDlet-2: MapTypeMIDP, , com.pstreets.gisengine.demo.midp.MapTypeMIDP
+MIDlet-3: MapZoomMIDP, , com.pstreets.gisengine.demo.midp.MapZoomMIDP
+MIDlet-4: MapPanMIDP, , com.pstreets.gisengine.demo.midp.MapPanMIDP
+MIDlet-5: MapGeocodingMIDP, , com.pstreets.gisengine.demo.midp.MapGeocodingMIDP
+MIDlet-6: MapRoutingMIDP, , com.pstreets.gisengine.demo.midp.MapRoutingMIDP
+MIDlet-7: MapLocalSearchMIDP, , com.pstreets.gisengine.demo.midp.MapLocalSearchMIDP
+MIDlet-8: MapIpSearchMIDP, , com.pstreets.gisengine.demo.midp.MapIpSearchMIDP
+MIDlet-9: MapReverseGeocodingMIDP, , com.pstreets.gisengine.demo.midp.MapReverseGeocodingMIDP
+MIDlet-Jar-Size: 966468
+MIDlet-Jar-URL: JavaMEGISEngineTutorial.jar
+MIDlet-Name: JavaMEGISEngineTutorial
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETGraphicsFactory.cs" caret="942" fromTop="18" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETImage.cs" caret="1530" fromTop="17" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETGraphics.cs" caret="4401" fromTop="12" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETFont.cs" caret="0" fromTop="0" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/f:Mainform.cs" caret="5272" fromTop="12" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/f:Program.cs" caret="325" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETFont.cs" caret="3881" fromTop="86" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETGraphics.cs" caret="916" fromTop="7" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETGraphicsFactory.cs" caret="942" fromTop="18" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/d:Drawing/f:NETImage.cs" caret="919" fromTop="16" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/f:Mainform.cs" caret="4003" fromTop="18" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/f:Mainform.cs" caret="4002" fromTop="17" />
+      <File id="4F59A4A4-0437-4F69-AAC1-4822ABD075BD/f:Mainform.cs" caret="1661" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

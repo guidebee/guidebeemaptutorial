@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MapServiceTypeRIM
+RIM-COD-Module-Dependencies: net_rim_cldc,libGISEngine
+MIDlet-Jar-Size: 14603
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1299929834
+MIDlet-Jar-URL: MapServiceTypeRIM.jar
+RIM-COD-URL: MapServiceTypeRIM.cod
+RIM-COD-SHA1: 23 2b c0 f7 a9 90 92 98 98 3f 02 6a 1d 88 92 ce f8 e6 13 45
+RIM-COD-Size: 5528
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: MapServiceTypeRIM
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

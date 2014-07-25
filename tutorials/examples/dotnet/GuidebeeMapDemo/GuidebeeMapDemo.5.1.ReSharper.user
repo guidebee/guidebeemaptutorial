@@ -1,0 +1,73 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9579" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphicsFactory.cs" caret="5471" fromTop="3" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETFont.cs" caret="1872" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:Program.cs" caret="522" fromTop="17" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphics.cs" caret="3835" fromTop="10" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="10174" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="845" fromTop="12" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="12113" fromTop="3" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="12113" fromTop="6" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="12113" fromTop="343" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETFont.cs" caret="3878" fromTop="86" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphics.cs" caret="10431" fromTop="200" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9529" fromTop="11" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9579" fromTop="192" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:Program.cs" caret="13" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="717" fromTop="2" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="4354" fromTop="5" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="3701" fromTop="19" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphicsFactory.cs" caret="2575" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphicsFactory.cs" caret="5471" fromTop="3" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11323" fromTop="15" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="12110" fromTop="23" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="3570" fromTop="20" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="12113" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="3025" fromTop="9" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:Program.cs" caret="522" fromTop="17" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphics.cs" caret="3986" fromTop="16" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="9019" fromTop="12" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11207" fromTop="13" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="4102" fromTop="20" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="9744" fromTop="8" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="10585" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Mapdigit.Gis.Raster.RasterMap">
+      <Item value="SetMaxZoomLevel`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="case" priority="0" />
+      <Item value="mapType" priority="0" />
+      <Item value="MapType`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mapdigit.Gis.Raster.MapType">
+      <Item value="GenericMaptype7" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

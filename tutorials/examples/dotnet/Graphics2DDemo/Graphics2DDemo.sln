@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapdigit.Util", "Mapdigit.Util\Mapdigit.Util.csproj", "{91C13559-0EE5-46E1-825E-FDF272BB009C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapdigit.Drawing", "Mapdigit.Drawing\Mapdigit.Drawing.csproj", "{5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics2DExample", "Graphics2DExample\Graphics2DExample.csproj", "{C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C13559-0EE5-46E1-825E-FDF272BB009C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C13559-0EE5-46E1-825E-FDF272BB009C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C13559-0EE5-46E1-825E-FDF272BB009C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C13559-0EE5-46E1-825E-FDF272BB009C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBCFBE0-8B60-49E9-A777-8A72BAD7DABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C204DE53-9E22-4CA0-B07E-ABDA8FDEDAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

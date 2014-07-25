@@ -1,0 +1,16 @@
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Graphics2DExample.exe
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Graphics2DExample.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Drawing.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Util.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Drawing.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Drawing.xml
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Util.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\bin\Debug\Mapdigit.Util.xml
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\ResolveAssemblyReference.cache
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\Graphics2DExample.Form1.resources
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\Graphics2DExample.Properties.Resources.resources
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\ResGen.read.1.tlog
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\ResGen.write.1.tlog
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\Graphics2DExample.exe
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\Graphics2DExample.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Graphics2DExample\obj\Debug\Graphics2DExample.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\obj\Debug\GTKGuidebeeMapDemo.Properties.Resources.resources
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\obj\Debug\GTKGuidebeeMapDemo.csproj.GenerateResource.Cache
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\GTKGuidebeeMapDemo.exe
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\GTKGuidebeeMapDemo.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Ajax.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Crypto.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Drawing.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Gis.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Licence.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Network.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Rms.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\Mapdigit.Util.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\obj\Debug\GTKGuidebeeMapDemo.exe
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\obj\Debug\GTKGuidebeeMapDemo.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\GTKGuidebeeMapDemo\GTKGuidebeeMapDemo\bin\Debug\guidebee.lic

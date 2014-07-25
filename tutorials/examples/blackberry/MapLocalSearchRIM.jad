@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MapLocalSearchRIM
+RIM-COD-Module-Dependencies: net_rim_cldc,libGISEngine
+MIDlet-Jar-Size: 14634
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1299929791
+MIDlet-Jar-URL: MapLocalSearchRIM.jar
+RIM-COD-URL: MapLocalSearchRIM.cod
+RIM-COD-SHA1: 96 0c e4 a2 6d b9 81 54 af c2 62 69 39 5c b8 76 57 38 ce 73
+RIM-COD-Size: 5548
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: MapLocalSearchRIM
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

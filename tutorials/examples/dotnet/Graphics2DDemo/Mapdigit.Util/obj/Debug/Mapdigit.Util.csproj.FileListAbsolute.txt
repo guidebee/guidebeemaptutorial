@@ -1,0 +1,6 @@
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\bin\Debug\Mapdigit.Util.XML
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\bin\Debug\Mapdigit.Util.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\bin\Debug\Mapdigit.Util.pdb
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\obj\Debug\Mapdigit.Util.dll
+D:\CVSMapDigit\tutorials\examples\dotnet\Graphics2DDemo\Mapdigit.Util\obj\Debug\Mapdigit.Util.pdb

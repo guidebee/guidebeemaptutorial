@@ -1,0 +1,54 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+libGISEngine
+]
+ExcludeFromBuildAll=0
+Exported=0
+[Files
+com\pstreets\gisengine\demo\MapDemoRIM.java
+com\pstreets\gisengine\demo\MapLocalSearchRIM.java
+com\pstreets\gisengine\demo\rim\drawing\RIMFont.java
+com\pstreets\gisengine\demo\rim\drawing\RIMGraphics.java
+com\pstreets\gisengine\demo\rim\drawing\RIMGraphicsFactory.java
+com\pstreets\gisengine\demo\rim\drawing\RIMImage.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-quiet
+OutputFileName=MapLocalSearchRIM
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=0
+SkipCompile=0
+StartupTier=7
+SystemModule=0
+Type=0

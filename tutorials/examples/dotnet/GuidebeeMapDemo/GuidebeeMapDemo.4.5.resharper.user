@@ -1,0 +1,44 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETFont.cs" caret="3878" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphics.cs" caret="10344" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9579" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphicsFactory.cs" caret="7484" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:Program.cs" caret="13" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="3609" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="791" fromTop="12" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11492" fromTop="3" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11492" fromTop="6" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11492" fromTop="343" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETFont.cs" caret="3878" fromTop="86" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphics.cs" caret="10344" fromTop="200" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETGraphicsFactory.cs" caret="7484" fromTop="157" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9529" fromTop="11" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/d:Drawing/f:NETImage.cs" caret="9579" fromTop="192" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:Program.cs" caret="13" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="717" fromTop="2" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11492" fromTop="33" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="11492" fromTop="0" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="10571" fromTop="25" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="9808" fromTop="3" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="4248" fromTop="5" />
+      <File id="73244E0B-563A-411B-BBF5-FE179C11626C/f:MainWindow.cs" caret="3609" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

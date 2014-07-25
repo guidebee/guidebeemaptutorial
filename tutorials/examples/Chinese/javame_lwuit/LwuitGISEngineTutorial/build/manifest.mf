@@ -1,0 +1,17 @@
+MIDlet-9: MapIpSearchLWUIT, , com.pstreets.gisengine.demo.lwuit.MapIpSearchLWUIT
+MIDlet-8: MapLocalSearchLWUIT, , com.pstreets.gisengine.demo.lwuit.MapLocalSearchLWUIT
+MIDlet-7: HelloLWUIT, , com.pstreets.gisengine.demo.HelloLWUIT
+MIDlet-6: MapPanLWUIT,,com.pstreets.gisengine.demo.lwuit.MapPanLWUIT
+MIDlet-5: MapRoutingLWUIT,,com.pstreets.gisengine.demo.lwuit.MapRoutingLWUIT
+MIDlet-4: MapTypeLWUIT,,com.pstreets.gisengine.demo.lwuit.MapTypeLWUIT
+MIDlet-3: MapGeocodingLWUIT,,com.pstreets.gisengine.demo.lwuit.MapGeocodingLWUIT
+MIDlet-2: MapZoomLWUIT,,com.pstreets.gisengine.demo.lwuit.MapZoomLWUIT
+MIDlet-12: MapOverlayLWUIT, , com.pstreets.gisengine.demo.lwuit.MapOverlayLWUIT
+MIDlet-1: HelloWorldLWUIT,,com.pstreets.gisengine.demo.lwuit.HelloWorldLWUIT
+MIDlet-11: MapServiceTypeLWUIT, , com.pstreets.gisengine.demo.lwuit.MapServiceTypeLWUIT
+MIDlet-10: MapReverseGeocodingLWUIT, , com.pstreets.gisengine.demo.lwuit.MapReverseGeocodingLWUIT
+MIDlet-Vendor: Vendor
+MIDlet-Name: LwuitGISEngineTutorial
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

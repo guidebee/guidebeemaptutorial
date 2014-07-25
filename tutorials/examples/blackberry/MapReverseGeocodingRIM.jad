@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MapReverseGeocodingRIM
+RIM-COD-Module-Dependencies: net_rim_cldc,libGISEngine
+MIDlet-Jar-Size: 14272
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1299929819
+MIDlet-Jar-URL: MapReverseGeocodingRIM.jar
+RIM-COD-URL: MapReverseGeocodingRIM.cod
+RIM-COD-SHA1: 3d e6 05 b9 44 95 36 d2 11 0e 20 43 7e c3 66 c4 f1 f9 21 45
+RIM-COD-Size: 5336
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: MapReverseGeocodingRIM
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
